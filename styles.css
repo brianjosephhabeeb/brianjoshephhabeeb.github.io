@@ -1,0 +1,27 @@
+li.nav {
+    display: inline-block;
+    padding: 20px;
+}
+
+img {
+    position: relative;
+    max-width: 50%;
+    height: auto;
+    padding: 10px;
+}
+
+body{
+    display: grid;
+    grid-template-columns: 150px 1fr 2fr 1fr 150px;
+    grid-template-rows: 100px 100px 1fr 1fr 1fr 100px;
+}
+
+
+p.footer {
+  text-align: center;
+  margin: auto;
+}
+#H1_Title {
+    text-align: center;
+    margin: auto;
+}
